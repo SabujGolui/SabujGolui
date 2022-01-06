@@ -1,4 +1,4 @@
-![git ](https://user-images.githubusercontent.com/83773953/148397151-841fc72d-fbb4-4987-b98b-510a31d772ed.jpg)
+![MasterHead](https://user-images.githubusercontent.com/83773953/148397151-841fc72d-fbb4-4987-b98b-510a31d772ed.jpg)
 <h1 align="center">Hi 👋, I'm Sabuj Golui</h1>
 <h3 align="center">EE Student Who Loves to code & Exploring New Fields .Loves to put a Smile on people's face...</h3>
 
