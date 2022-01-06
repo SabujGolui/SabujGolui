@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sabuj-golui-215941201/](https://www.linkedin.com/in/sabuj-golui-215941201/)
 
-- 📝 I regularly write articles on [https://medium.com/@www.sabujgolui](https://medium.com/@www.sabujgolui)
+- 📝 I write articles on [https://medium.com/@www.sabujgolui](https://medium.com/@www.sabujgolui)
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/83773953/148402317-adc8b38e-dbef-4d19-ba81-353d35502275.gif">
 
