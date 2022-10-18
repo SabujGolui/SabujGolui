@@ -46,7 +46,7 @@
 </a>
 <br>
 <a>
-    <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=sabujgolui&theme=dark" />
+    <img align="center" style="margin-top:2rem " src="https://github-readme-streak-stats.herokuapp.com/?user=sabujgolui&theme=dark" />
 </a>
 
 <br>
