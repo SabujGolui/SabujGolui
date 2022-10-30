@@ -53,3 +53,6 @@
 <br>
 
 [![@sabujgolui's Holopin board](https://holopin.me/sabujgolui)](https://holopin.io/@sabujgolui)
+
+![Congratulations !! Now you are a part of The Startup Club Family](https://user-images.githubusercontent.com/83773953/198865374-f3d82556-daa2-485c-a0c6-8f2b53e42639.gif)
+
