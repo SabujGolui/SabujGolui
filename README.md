@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Sabuj Golui</h1>
-  <p><em>Building thoughtful web experiences and practical cloud solutions.</em></p>
+  <img src="./assets/header.svg" width="100%" alt="Sabuj Golui Header Banner" />
+  <br /><br />
   <p>
     <a href="https://www.linkedin.com/in/sabuj-golui/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" />
@@ -16,39 +16,38 @@
   </p>
 </div>
 
-<table>
-  <tr>
-    <td width="34%" align="center">
-      <img src="./assets/profile-doodle.png" alt="Illustrated portrait of Sabuj Golui" width="220" />
-    </td>
-    <td width="66%" valign="middle">
-      <h3>Hi, I'm Sabuj <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="24" alt="Waving hand" /></h3>
-      <p>I enjoy turning ideas into clean, reliable products. I work across frontend development, backend systems, cloud platforms, and the tools that connect them.</p>
-      <p>🔗 <strong>Ask me how I connect the dots:</strong> responsive interfaces, reliable APIs, well-structured data, and cloud delivery.</p>
-      <p>🧠 <strong>Fun fact:</strong> I have a bug in my head that turns ideas into things to build and problems into things to solve.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>What I build</h3>
-      <p><strong>Full-stack web applications</strong><br />Responsive React interfaces built with reusable component systems.</p>
-      <p><strong>APIs and data layers</strong><br />Node.js and Express REST APIs backed by thoughtfully designed PostgreSQL databases.</p>
-      <p><strong>Production-ready delivery</strong><br />Testing, Docker, Git workflows, and cloud deployment foundations.</p>
-    </td>
-    <td valign="top">
-      <h3>Toolkit</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express" alt="JavaScript, HTML, CSS, React, Node.js, and Express" />
-        <br />
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,python,java,spring,materialui,bootstrap,docker,azure,gcp,git,postman,vscode" alt="PostgreSQL, MySQL, Python, Java, Spring Boot, Material UI, Bootstrap, Docker, Azure, Google Cloud, Git, Postman, and Visual Studio Code" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="48" alt="Canva" title="Canva" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" height="48" alt="DigitalOcean" title="DigitalOcean" />
-      </p>
-      <p><strong>Database</strong><br />PostgreSQL schema design, functions, triggers, views, queries, query optimization, and indexing.</p>
-      <p><strong>Core</strong><br />JavaScript (ES6+), SQL, HTML, and CSS.</p>
-    </td>
-  </tr>
-</table>
+
+<div align="left">
+  <h2>Hi, I'm Sabuj <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="24" alt="Waving hand" /></h2>
+  <p>I enjoy turning ideas into clean, reliable products. I work across frontend development, backend systems, cloud platforms, and the tools that connect them.</p>
+</div>
+
+> 🔗 **Ask me how I connect the dots:** responsive interfaces, reliable APIs, well-structured data, and cloud delivery.  
+> 🧠 **Fun fact:** I have a bug in my head that turns ideas into things to build and problems into things to solve.
+
+---
+
+### What I build
+
+- **Full-stack web applications** — Responsive React interfaces built with reusable component systems.
+- **APIs and data layers** — Node.js and Express REST APIs backed by thoughtfully designed PostgreSQL databases.
+- **Production-ready delivery** — Testing, Docker, Git workflows, and cloud deployment foundations.
+
+---
+
+### Toolkit
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,mysql" alt="JavaScript, HTML, CSS, React, Node.js, Express, postgres and mysql" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,materialui,bootstrap,docker,azure,gcp,git,postman,vscode" alt="PostgreSQL, MySQL, Python, Java, Spring Boot, Material UI, Bootstrap, Docker, Azure, Google Cloud, Git, Postman, and Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="48" alt="Canva" title="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" height="48" alt="DigitalOcean" title="DigitalOcean" />
+</div>
+
+- **Database:** PostgreSQL schema design, functions, triggers, views, queries, query optimization, and indexing.
+- **Core:** JavaScript (ES6+), SQL, HTML, and CSS.
+
 
 ## GitHub snapshot
 
@@ -59,7 +58,7 @@
 
 ## AI workflow
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="32" alt="ChatGPT" title="ChatGPT" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/D97757" height="32" alt="Claude" title="Claude" />
