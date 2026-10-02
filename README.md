@@ -59,17 +59,17 @@
 ## AI workflow
 
 <div align="left">
-  <img src="./assets/ai/openai.svg" height="34" alt="ChatGPT" title="ChatGPT" />
+  <img src="./assets/ai/openai.svg" height="34" width="34" alt="ChatGPT" title="ChatGPT" />
   &nbsp;&nbsp;
-  <img src="./assets/ai/claude.svg" height="34" alt="Claude" title="Claude" />
+  <img src="./assets/ai/claude.svg" height="34" width="34" alt="Claude" title="Claude" />
   &nbsp;&nbsp;
-  <img src="./assets/ai/google.svg" height="34" alt="Google Antigravity" title="Antigravity" />
+  <img src="./assets/ai/google.svg" height="34" width="34" alt="Google Antigravity" title="Antigravity" />
   &nbsp;&nbsp;
-  <img src="./assets/ai/cursor.svg" height="34" alt="Cursor" title="Cursor" />
+  <img src="./assets/ai/cursor.svg" height="34" width="34" alt="Cursor" title="Cursor" />
   &nbsp;&nbsp;
-  <img src="./assets/ai/openrouter.svg" height="34" alt="OpenRouter" title="OpenRouter" />
+  <img src="./assets/ai/openrouter.svg" height="34" width="34" alt="OpenRouter" title="OpenRouter" />
   &nbsp;&nbsp;
-  <img src="./assets/ai/gemini.svg" height="34" alt="Google Gemini" title="Google Gemini" />
+  <img src="./assets/ai/gemini.svg" height="34" width="34" alt="Google Gemini" title="Google Gemini" />
 </div>
 
 ## Achievements
