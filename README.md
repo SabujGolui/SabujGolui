@@ -59,17 +59,17 @@
 ## AI workflow
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="32" alt="ChatGPT" title="ChatGPT" />
+  <img src="./assets/ai/openai.svg" height="34" alt="ChatGPT" title="ChatGPT" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="32" alt="Claude" title="Claude" />
+  <img src="./assets/ai/claude.svg" height="34" alt="Claude" title="Claude" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="32" alt="Google Antigravity" title="Antigravity" />
+  <img src="./assets/ai/google.svg" height="34" alt="Google Antigravity" title="Antigravity" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/000000" height="32" alt="Cursor" title="Cursor" />
+  <img src="./assets/ai/cursor.svg" height="34" alt="Cursor" title="Cursor" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/OpenRouterTeam/sign-in-with-openrouter/main/public/openrouter-logo-light.svg" height="32" alt="OpenRouter" title="OpenRouter" />
+  <img src="./assets/ai/openrouter.svg" height="34" alt="OpenRouter" title="OpenRouter" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlegemini.svg" height="32" alt="Google Gemini" title="Google Gemini" />
+  <img src="./assets/ai/gemini.svg" height="34" alt="Google Gemini" title="Google Gemini" />
 </div>
 
 ## Achievements
