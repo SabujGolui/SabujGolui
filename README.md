@@ -40,7 +40,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,mysql" alt="JavaScript, HTML, CSS, React, Node.js, Express, postgres and mysql" />
   <br />
-  <img src="https://skillicons.dev/icons?i=python,java,spring,materialui,bootstrap,docker,azure,gcp,git,postman,vscode" alt="PostgreSQL, MySQL, Python, Java, Spring Boot, Material UI, Bootstrap, Docker, Azure, Google Cloud, Git, Postman, and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,wordpress,materialui,bootstrap,docker,azure,gcp,git,postman,vscode" alt="PostgreSQL, MySQL, Python, Java, Spring Boot, Material UI, Bootstrap, Docker, Azure, Google Cloud, Git, Postman, and Visual Studio Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="48" alt="Canva" title="Canva" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" height="48" alt="DigitalOcean" title="DigitalOcean" />
 </div>
